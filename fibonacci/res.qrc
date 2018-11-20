@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/fibonacci-formula-phi.png</file>
+        <file>img/T1.jpg</file>
+        <file>img/E3.jpg</file>
+    </qresource>
+</RCC>
